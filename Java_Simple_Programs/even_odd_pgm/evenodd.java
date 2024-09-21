@@ -1,5 +1,7 @@
 package even_odd_pgm;
-
+/*
+ * Java program to print given number is odd or even
+ */
 import java.util.Scanner;
 
 public class evenodd {
