@@ -1,5 +1,9 @@
 package Java_Array_Imp_Problems.Multiply_Coresponding_elements_of_two_Arrays;
 
+/*
+ * Java Program to Multiple corresponding elements of two Arrays
+ */
+
 public class multiplyarray {
     public static void main(String[] args) {
         int a[]={1,2,3,4,5};
